@@ -1,6 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -21,8 +22,6 @@
     "morgan": "^1.10.0"
   },
   "devDependencies": {
-    "@types/mongoose": "^5.11.97",
-    "nodemon": "^2.0.22"
-  },
-  "description": ""
+    "nodemon": "^2.0.21"
+  }
 }
