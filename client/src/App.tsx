@@ -4,7 +4,7 @@ import { themeSettings } from "./theme"
 import {Box, CssBaseline, ThemeProvider} from "@mui/material"
 import { BrowserRouter, Routes,Route } from "react-router-dom"
 import Navbar from "@/views/navbar"
-import Dashboard from "@/views/dashboard"
+import Dashboard from "@/views/dashboard";
 
 
 function App() {
